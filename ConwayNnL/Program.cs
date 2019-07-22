@@ -19,4 +19,7 @@ namespace ConwayNnL
       Application.Run(new Form1());
     }
   }
+
+
+
 }
